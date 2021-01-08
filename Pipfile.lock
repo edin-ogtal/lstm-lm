@@ -1,0 +1,24 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "7afd4caaab24c2ec453e4eb732c9f7b047b6d1bbf8c79fc219af605fa08f2f83"
+        },
+        "pipfile-spec": 6,
+        "requires": {
+            "python_version": "3.8"
+        },
+        "sources": [
+            {
+                "name": "pypi",
+                "url": "https://pypi.python.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "db0fd96": {
+            "file": "https://download.pytorch.org/whl/cu102/torch-1.7.1-cp38-cp38-linux_x86_64.whl"
+        }
+    },
+    "develop": {}
+}
