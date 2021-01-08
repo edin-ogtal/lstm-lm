@@ -130,3 +130,6 @@ dmypy.json
 
 #data folder
 wikitext-2-raw/
+wikitext-2-raw-all/
+model/
+output/

@@ -8,5 +8,8 @@ name = "pypi"
 [requires]
 python_version = "3.8"
 
+[packages]
+ipython = "*"
+
 [packages.db0fd96]
 file = "https://download.pytorch.org/whl/cu102/torch-1.7.1-cp38-cp38-linux_x86_64.whl"
